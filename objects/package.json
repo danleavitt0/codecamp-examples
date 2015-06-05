@@ -1,0 +1,14 @@
+{
+  "name": "user",
+  "version": "0.0.1",
+  "description": "examples",
+  "main": "app.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
