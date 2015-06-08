@@ -6,8 +6,8 @@ create:
 	mkdir -p $$lesson; \
 	mkdir -p $$lesson/examples; \
 	mkdir -p $$lesson/examples/$$file_name; \
-	cp templates/index.js $$lesson/examples/$$file_name; \
-	cp templates/package.json $$lesson/examples/$$file_name; \
-	cp templates/.gitignore $$lesson/examples/$$file_name; \
-
+	cp .templates/index.js $$lesson/examples/$$file_name; \
+	cp .templates/package.json $$lesson/examples/$$file_name; \
+	cp .templates/.gitignore $$lesson/examples/$$file_name; \ 
+	
 .PHONY: create

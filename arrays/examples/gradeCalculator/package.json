@@ -10,7 +10,11 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "beefy index.js --port $PORT --live"
+    "prestart": "npm install",
+    "start": "beefy index.js --port $npm_package_config_port --live"
+  },
+  "config":{
+    "port":"8080"
   },
   "author": "",
   "license": "ISC"

@@ -13,14 +13,17 @@ var movies = {
 	}
 }
 
-function describeMovie(movie) {
-	console.log("The movie " + movie.title + " from the year " + movie.year + " was about " + movie.description +
-		". It starred " + movie.starring.join(' and ') + ".")
+function describeMovie(movieTitle) {
+  var movie = movies[movieTitle]
+  if(movie) {
+  	console.log("The movie " + movie.title + " from the year " + movie.year + " was about " + movie.description +
+  		". It starred " + movie.starring.join(' and ') + ".")
+  }
+  else console.log(movieTitle + " is not in the database.")
 }
 
-
-for (var movie in movies) {
-	describeMovie(movies[movie])
-}
+describeMovie('Spiderman')
+describeMovie("Jello-man")
+describeMovie("Adventure guy")
 
 document.body.innerHTML = "Open your browser console!"
