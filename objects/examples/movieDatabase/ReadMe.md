@@ -6,8 +6,8 @@ It is your job to make a movie database that contains the fields:
     - Year (number)
     - Stars (array)
 
-The movie database is an object of movie objects. This means that the keys for 
-is the name of the movie and the value is an object with those three fields.
+The movie database is an object of movie objects. This means that for each movie,  
+the key is the name of the movie and the value is an object with those three fields.
 
 ## Display the information
 
@@ -31,3 +31,6 @@ is not in the database, display a message that tells the user.Bonus
 ```
     The movie Hercules is not in the database.
 ```
+
+## Documentation
+Look at https://github.com/danleavitt0/codecamp-examples/tree/master/objects for examples of how to write objects
