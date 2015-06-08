@@ -31,7 +31,7 @@ or if you need to use a variable as they key:
 
 ```
 var name = "key2"
-object[name}
+object[name]
 
 // returns value2
 ```
