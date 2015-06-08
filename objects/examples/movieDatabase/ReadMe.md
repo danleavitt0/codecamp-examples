@@ -15,7 +15,7 @@ To get key1 from the example object:
 ```
 object.key1
 
-// Returns value1
+// returns value1
 ```
 
 or if you need to use a variable as they key,
@@ -24,5 +24,5 @@ or if you need to use a variable as they key,
 var name = "key2"
 object[name}
 
-//Returns value2
+// returns value2
 ```
