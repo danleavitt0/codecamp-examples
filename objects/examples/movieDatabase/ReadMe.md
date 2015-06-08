@@ -1,28 +1,33 @@
-#Movie Database with objects
+## Create your movie database!
 
-## Defining an object
+It is your job to make a movie database that contains the fields:
 
-```
-    var object = {
-        key1: value1,
-        key2: value2
-    }
-```
+    - Title (string)
+    - Year (number)
+    - Stars (array)
 
-## Getting value from object
+The movie database is an object of movie objects. This means that the keys for 
+is the name of the movie and the value is an object with those three fields.
 
-To get key1 from the example object:
-```
-object.key1
+## Display the information
 
-// returns value1
-```
-
-or if you need to use a variable as they key,
+Create a function called getMovieInfo that takes the name of a movie as a parameter
+and displays the information in a sentence.
 
 ```
-var name = "key2"
-object[name}
+    getMovieInfo("Spiderman")
+```
 
-// returns value2
+```
+    Spiderman was made in 2000 and is about Spiderman versus the Green Goblin.
+    This movie starts Tobey Maguire and James Franco
+```
+
+## Bonus
+
+Use an `if/else` to check to make sure that the movie is in the database. If it 
+is not in the database, display a message that tells the user.Bonus
+
+```
+    The movie Hercules is not in the database.
 ```
