@@ -11,8 +11,14 @@
 
 ## Getting value from object
 
+To get key1 from the example object:
 - `object.key1`
+-> value1
 
 or if you need to use a variable as they key,
 
-- `object[key2]`
+```
+var name = "key2"
+object[name}
+```
+-> value2
