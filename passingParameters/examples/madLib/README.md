@@ -31,3 +31,10 @@ Example output:
 ```
 The large ant bellyflops into the goofy pool.
 ```
+
+## Documentation
+For help with **passing parameters** look at the [parameters documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/passingParameters/README.md)
+
+For help with **functions** check out the [defining functions documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/definingFunctions/README.md)
+
+For help with **strings** check out the [variables documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/variables/README.md)
