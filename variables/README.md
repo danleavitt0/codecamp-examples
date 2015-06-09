@@ -58,6 +58,5 @@ console.log(fullName)
 ```
 Output would look like this:
 ```
-// output
 Daniel Leavitt
 ```
