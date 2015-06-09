@@ -2,7 +2,7 @@
 
 ## Activities
 
-- [ ] [Say My Name]()
+- [ ] [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/sayMyName)
 - [ ] [Age Calculator]()
 - [ ] [Mad Lib]()
 

@@ -13,3 +13,8 @@ Example output:
 ```
 Your name is Heather
 ```
+
+## Documentation
+For help with passingParameters look at the [parameters documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/passingParameters/README.md)
+
+For help with functions check out the [defining functions documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/definingFunctions/README.md)
