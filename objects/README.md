@@ -2,19 +2,19 @@
 
 ## Activities
 
-    - [ ] Phonebook
-    - [ ] Social Media Posts
-    - [ ] User
-    - [ ] Movie Database
+- [ ] Phonebook
+- [ ] Social Media Posts
+- [ ] User
+- [ ] Movie Database
 
 
 ## Defining an object
 
 ```
-    var object = {
-        key1: value1,
-        key2: value2
-    }
+var object = {
+    key1: value1,
+    key2: value2
+}
 ```
 
 ## Setting individual values in an object
@@ -22,7 +22,7 @@
 You can set the value of a key by:
 
 ```
-    object.key1 = newValue
+object.key1 = newValue
 ```
 
 ## Getting value from object
