@@ -79,5 +79,4 @@ var superheroes = {
 		powers: 'Lots of money and lots of training'
 	}
 }
-}
 ```
