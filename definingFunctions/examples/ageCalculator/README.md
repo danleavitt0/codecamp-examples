@@ -21,4 +21,4 @@ You are 25 years old.
 ```
 
 ## Documentation 
-Check out the [defining functions documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/definingFunctions/README.md)
+For help, check out the [defining functions documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/definingFunctions/README.md)
