@@ -43,8 +43,8 @@ var lastName = "Leavitt"
 var fullName = firstName + lastName
 console.log(fullName)
 ```
+Output would look like this:
 ```
-// output
 DanielLeavitt
 ```
 
@@ -56,6 +56,7 @@ var lastName = "Leavitt"
 var fullName = firstName + " " + lastName
 console.log(fullName)
 ```
+Output would look like this:
 ```
 // output
 Daniel Leavitt

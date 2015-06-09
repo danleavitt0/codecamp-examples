@@ -19,6 +19,13 @@ The output should look like this:
 27
 ```
 
+## Bonus
+
+Add strings to the `console.log` make the output into a full sentence:
+```
+You are 27 years old
+```
+
 ## Documentation
 
 For help on variables look at https://github.com/danleavitt0/codecamp-examples/blob/master/variables/README.md
