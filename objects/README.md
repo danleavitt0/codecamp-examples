@@ -10,6 +10,8 @@
 
 ## Defining an object
 
+To see a working example of this code check out https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/dictionary
+
 Each entry in an object comes in a *key*, *value* pair. The key is the name of the entry
 and the value is the information that is stored.
 
