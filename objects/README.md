@@ -2,7 +2,7 @@
 
 ## Activities
 
-    - [ ] Phonebook
+    - [x] Phonebook
     - [ ] Social Media Posts
     - [ ] User
     - [ ] Movie Database
