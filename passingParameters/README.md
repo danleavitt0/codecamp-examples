@@ -60,3 +60,10 @@ It is also to pass two numbers to a function by separating the values with comma
 	}
 
 	addFive(3, 6)
+	addFive(9,29)
+
+The output would be:
+```
+14
+43
+```
