@@ -13,7 +13,7 @@
 5. Let’s create the phonebook. Start defining a variable phoneBook.
 ```
 	var phoneBook
- ```
+```
 6. To make sure the computer knows it is an object we use curly braces.
 ```
 	var phoneBook = {
