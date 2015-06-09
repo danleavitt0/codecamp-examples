@@ -2,10 +2,11 @@
 
 ## Activities
 
-    - [x] Phonebook
+    - [ ] Phonebook
     - [ ] Social Media Posts
     - [ ] User
     - [ ] Movie Database
+
 
 ## Defining an object
 
