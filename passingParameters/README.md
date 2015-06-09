@@ -3,8 +3,8 @@
 ## Activities
 
 - [ ] [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/sayMyName)
-- [ ] [Age Calculator]()
-- [ ] [Mad Lib]()
+- [ ] [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/ageCalculator)
+- [ ] [Mad Lib](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/madLib)
 
 ## Description
 
