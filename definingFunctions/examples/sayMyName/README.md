@@ -16,3 +16,4 @@ Your name is Daniel
 ```
 
 ## Documentation 
+Check out the defining functions documentation
