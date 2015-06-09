@@ -18,7 +18,7 @@ Function call:
 ```
 getUser(userInfo)
 ```
-Exampel output:
+Example output:
 ```
 Daniel aka danleavitt0 is 27 years old.
 ```
