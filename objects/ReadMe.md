@@ -1,6 +1,6 @@
 #Objects
 
-##Activities
+## Activities
     [ ] Phonebook
     [ ] Social Media Posts
     [ ] User
