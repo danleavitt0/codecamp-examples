@@ -2,10 +2,10 @@
 
 ## Activities
 
-- [ ] Phonebook
-- [ ] Social Media Posts
-- [ ] User
-- [ ] Movie Database
+- [ ] [Phonebook](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/phoneBook)
+- [ ] [Social Media Posts](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/socialMediaPosts)
+- [ ] [User](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/user)
+- [ ] [Movie Database](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/movieDatabase)
 
 
 ## Defining an object
