@@ -80,3 +80,31 @@ var superheroes = {
 	}
 }
 ```
+
+## Creating an array of objects
+
+It is possible to create a list of objects by placing them in an array. Remember that the values in an array are separate by 
+commas. An example of an array of objects:
+
+```
+var daySchedule = [
+	{
+		title: "School",
+		time: "8am - 3pm"
+	},
+	{
+		title: "Socer practice",
+		time: "4pm - 5pm"
+	},
+	{
+		title: "Grocery shopping",
+		time: "6pm - 7pm"
+		groceryList: [
+			"Apples",
+			"Oranges",
+			"Milk",
+			"Bread"
+		]
+	}
+]
+```
