@@ -28,7 +28,7 @@ Call that function:
 nameOfFunction()
 ```
 
-To create a **function** that prints out 'Hello World' start by defining it
+To teach the program how to say 'Hello World', create a **function**
 ```
 function helloWorld () {
 	
