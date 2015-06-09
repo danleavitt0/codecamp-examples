@@ -37,5 +37,22 @@ var firstName = "Daniel"
 var lastName = "Leavitt"
 
 var fullName = firstName + lastName
+console.log(fullName)
+```
+```
+// output
+DanielLeavitt
 ```
 
+To make sure there are spaces add a space between firstName and lastName
+```
+var firstName = "Daniel"
+var lastName = "Leavitt"
+
+var fullName = firstName + " " + lastName
+console.log(fullName)
+```
+```
+// output
+Daniel Leavitt
+```
