@@ -1,10 +1,11 @@
 #Objects
 
 ## Activities
-    [ ] Phonebook
-    [ ] Social Media Posts
-    [ ] User
-    [ ] Movie Database
+    
+    - Phonebook
+    - Social Media Posts
+    - User
+    - Movie Database
 
 ## Defining an object
 
