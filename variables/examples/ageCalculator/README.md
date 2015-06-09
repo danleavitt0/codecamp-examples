@@ -16,4 +16,4 @@ Use `console.log(age)`  to display the information.
 
 ## Documentation
 
-For help on variables look at 
+For help on variables look at https://github.com/danleavitt0/codecamp-examples/blob/master/variables/README.md

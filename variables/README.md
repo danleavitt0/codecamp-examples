@@ -1,5 +1,9 @@
 # Variables
 
+## Activities
+
+- [ ] [ageCalculator](https://github.com/danleavitt0/codecamp-examples/tree/master/variables/examples/ageCalculator)
+
 ## To define a variable
 
 For a **number**:
