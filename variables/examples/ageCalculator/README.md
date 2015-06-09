@@ -14,6 +14,11 @@ Define the variable `age` to equal the difference of `birthYear` and `currentYea
 
 Use `console.log(age)`  to display the information.
 
+The output should look like this:
+```
+27
+```
+
 ## Documentation
 
 For help on variables look at https://github.com/danleavitt0/codecamp-examples/blob/master/variables/README.md
