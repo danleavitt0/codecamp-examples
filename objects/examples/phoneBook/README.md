@@ -14,7 +14,6 @@
 ```
 	var phoneBook
  ```
-
 6. To make sure the computer knows it is an object we use curly braces.
 ```
 	var phoneBook = {
@@ -28,12 +27,10 @@
     }
 ```
 8. Multiple entries are separated by a comma
-
 ```
 var phoneBook = {
 		Elmo: "123-4567",
 		Burt: "555-5555"
 }
 ```
-
 9. Add three more original entries
