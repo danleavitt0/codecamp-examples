@@ -1,4 +1,10 @@
-#Movie Database with objects
+#Objects
+
+##Activities
+    [ ] Phonebook
+    [ ] Social Media Posts
+    [ ] User
+    [ ] Movie Database
 
 ## Defining an object
 
