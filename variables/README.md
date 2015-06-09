@@ -14,7 +14,7 @@ var name = "Daniel"
 ## Operations
 
 Operation | Example
--|-
+------|------
 + | a + b
 - | a - b
 * | a * b
