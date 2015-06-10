@@ -17,26 +17,30 @@ Following the named add parentheses `()` and then curly braces `{}`. Anything be
 and the closing curly brace `}` is the code that will be executed when the **function** is called.
 
 Define a function:
-```
+```js
 function nameOfFunction () {
 	// Code goes here
 }
 ```
 To call the **function** simply type the name of the **function** followed by parenteses `()`
 Call that function:
-```
+```js
 nameOfFunction()
 ```
+### Hello World
 
+Create a function that says 'Hello Wold'.
+
+Define function:
 To teach the program how to say 'Hello World', create a **function**
-```
+```js
 function helloWorld () {
 	
 }
 ```
 
 Add the `console.log` inside the braces
-```
+```js
 function helloWorld () {
 	console.log('Hello World')
 }
@@ -44,12 +48,12 @@ function helloWorld () {
 
 Finally, call the **function**
 
-```
+```js
 helloWorld()
 ```
 
 All together, this program looks like this:
-```
+```js
 function helloWorld () {
 	console.log('Hello World')
 }
