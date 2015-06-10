@@ -65,5 +65,5 @@ It is also to pass two numbers to a function by separating the values with comma
 The output would be:
 ```
 14
-43
+43 
 ```

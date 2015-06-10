@@ -7,7 +7,7 @@ To measure distance remember that:
 distance = speed * time
 ```
 
-The function should return the distance
+The function should return the distance.
 
 ## Define
 
@@ -30,4 +30,4 @@ The total distance is 230 miles
 ```
 
 ## Documentation
-For help with returning look at the [documentation]()
+For help with returning data look at the [documentation]()
