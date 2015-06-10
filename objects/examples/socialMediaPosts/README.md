@@ -17,7 +17,7 @@ Define an array named socialMediaPosts that contains at least three objects. Eac
 Create a function called getPosts that displays all of the post information from the array.
 (HINT: You need a for loop to iterate through the array)
 
-```
+```js
 getPosts(socialMediaPosts)
 ```
 

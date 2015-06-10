@@ -3,7 +3,7 @@
 Create a function that measures the distance give the speed and time
 To measure distance remember that:
 
-```
+```js
 distance = speed * time
 ```
 
@@ -17,7 +17,7 @@ Define a function called `distanceCalculator` that returns `distance` by multipl
 `distanceCalculator` should be called three times and the values returned should be added togehter.
 
 Example function call:
-```
+```js
 var sum = distanceCalculator(25, 2) + distanceCalculator(30, 4) + distanceCalculator(10, 6)
 ```
 

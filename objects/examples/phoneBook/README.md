@@ -17,21 +17,21 @@ var phoneBook
 ```
 
 To make sure the computer knows it is an object we use curly braces.
-```
+```js
 var phoneBook = {
 	// keys and values go in the braces
 }
 ```
 
 Add the first key, value pair. Use a colon to map Elmo to the phone number “123-4567”
-```
+```js
 var phoneBook = {
 	Elmo: "123-4567"
 }
 ```
 
 Multiple entries are separated by a comma
-```
+```js
 var phoneBook = {
 	Elmo: "123-4567",
 	Burt: "555-5555"

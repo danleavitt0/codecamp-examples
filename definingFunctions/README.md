@@ -7,13 +7,13 @@
 - [ ] [MadLib Function](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/madLibFunction)
 
 
-A **function** is a way of teaching the program a new command. To use **functions** you first need to define the function. 
+A **function** is a way of teaching the program a new command. To use **functions** you first need to define the function.
 Once you are read to use the function you call it.
 
 ## How to define a function
 
 To define a new **function** start with the `function` keyword and then whatever you want to name the **function**.
-Following the named add parentheses `()` and then curly braces `{}`. Anything between the open curly brace `{` 
+Following the named add parentheses `()` and then curly braces `{}`. Anything between the open curly brace `{`
 and the closing curly brace `}` is the code that will be executed when the **function** is called.
 
 Define a function:
@@ -35,7 +35,7 @@ Define function:
 To teach the program how to say 'Hello World', create a **function**
 ```js
 function helloWorld () {
-	
+
 }
 ```
 

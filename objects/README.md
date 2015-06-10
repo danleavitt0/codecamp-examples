@@ -2,10 +2,10 @@
 
 ## Activities
 
-- [ ] [Phonebook](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/phoneBook)
-- [ ] [Social Media Posts](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/socialMediaPosts)
-- [ ] [User](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/user)
-- [ ] [Movie Database](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/movieDatabase)
+-  [Phonebook](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/phoneBook)
+- [Social Media Posts](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/socialMediaPosts)
+- [User](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/user)
+- [Movie Database](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/movieDatabase)
 
 
 ## Defining an object
@@ -15,7 +15,7 @@ To see a working example of this code check out https://github.com/danleavitt0/c
 Each entry in an object comes in a *key*, *value* pair. The key is the name of the entry
 and the value is the information that is stored.
 
-```
+```js
 var object = {
   key1: value1,
   key2: value2
@@ -25,7 +25,7 @@ var object = {
 In the example below the object `dictionary` has 2 entries. The keys are the name of the words (eat, sassafras) and the values
 are the definitions of those words.
 
-```
+```js
 var dictionary = {
 	eat: 'put (food) into the mouth and chew and swallow it.',
 	sassafras: 'an extract of the leaves or bark of the sassafras, used medicinally or in perfumery.'
@@ -36,7 +36,7 @@ var dictionary = {
 
 To get a key from the `dictionary` object:
 
-```
+```js
 dictionary.eat
 
 // returns 'put (food) into the mouth and chew and swallow it.'
@@ -44,7 +44,7 @@ dictionary.eat
 
 or if you need to use a variable as they key:
 
-```
+```js
 var name = "sassafras"
 dictionary[name]
 
@@ -55,7 +55,7 @@ dictionary[name]
 
 You can set the value of a key by:
 
-```
+```js
 dictionary.large = 'of considerable or relatively great size, extent, or capacity.'
 ```
 
@@ -63,12 +63,12 @@ dictionary.large = 'of considerable or relatively great size, extent, or capacit
 ## Objects can be nested (an object inside of a object)
 
 In this example, the object `superheroes` has three keys
-```
+```js
 var superheroes = {
 	spiderman:{
 		heroName: 'Spiderman'
 		realName: 'Peter Parker',
-		powers: 'Webs and reaction time' 
+		powers: 'Webs and reaction time'
 	},
 	superman: {
 		heroName:'Superman'
@@ -85,10 +85,10 @@ var superheroes = {
 
 ## Creating an array of objects
 
-It is possible to create a list of objects by placing them in an array. Remember that the values in an array are separate by 
+It is possible to create a list of objects by placing them in an array. Remember that the values in an array are separate by
 commas. An example of an array of objects:
 
-```
+```js
 var daySchedule = [
 	{
 		title: "School",

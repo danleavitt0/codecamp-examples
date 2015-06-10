@@ -15,10 +15,10 @@ Create these four variables and give them all values:
 	`adjective2`
 
 Create a variable called `story`. `story` should be set to equal a string with the variables added into them.
-It can be multiple sentences and needs to use all of the variables. 
+It can be multiple sentences and needs to use all of the variables.
 
 A short example with only 2 variables could be:
-```
+```js
 var story = "Writing a story about " + noun + " and his " + adjective1 + " family."
 ```
 
@@ -27,11 +27,11 @@ var story = "Writing a story about " + noun + " and his " + adjective1 + " famil
 The function should use a `console.log` to output the story to the console.
 
 Example function call:
-```
+```js
 madLibStory()
 ```
 
-Example output: 
+Example output:
 ```
 Writing a story about a frog and his smelly family.
 ```

@@ -4,7 +4,7 @@ Create a madLib function that uses parameters to set the values of the variables
 
 ## Define
 
-Define a function that accepts four parameters: 
+Define a function that accepts four parameters:
 
 	`noun`
 	`verb`
@@ -19,7 +19,7 @@ parameters used in it.
 The function call should pass four parameters.
 
 Function call example:
-```
+```js
 madLib("ant", "bellyflops", "large", "goofy")
 ```
 

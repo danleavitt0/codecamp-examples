@@ -2,7 +2,7 @@
 
 ## Create the object
 
-Create an object called userInfo that has information about the user. The user object should have 
+Create an object called userInfo that has information about the user. The user object should have
 at least 3 fields:
 
 	- name
@@ -15,7 +15,7 @@ Create a function called getUser that accepts an object as a parameter. The func
 the information to the console.
 
 Function call:
-```
+```js
 getUser(userInfo)
 ```
 Example output:

@@ -5,12 +5,12 @@ and references to help you if you get stuck. Enjoy!
 
 ## Activities
 
-    - list 
+    - list
     - of
     - activities
-    
+
 ## Reference
 
-    - list 
+    - list
     - of
     - references

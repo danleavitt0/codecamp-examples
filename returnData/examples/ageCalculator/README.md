@@ -13,7 +13,7 @@ Return the variable `age`.
 The function should be called twice and the answers should be added to get the sum.
 
 Example function call:
-```
+```js
 var sum = ageCalculator(1990, 2015) + ageCalculator(2000, 2015)
 ```
 

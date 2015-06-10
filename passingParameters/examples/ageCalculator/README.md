@@ -13,7 +13,7 @@ The function should determine the users age using those numbers.
 In the program, the `ageCalculator` function should be called at least three times with different values each time.
 
 Example function call:
-```
+```js
 ageCalculator(1987, 2015)
 ageCalculator(2000, 2015)
 ageCalculator(1950, 2015)

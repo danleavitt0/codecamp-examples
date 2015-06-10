@@ -6,18 +6,18 @@ Create a function that returns data about the user by calling two other function
 
 Define  function `sayMyName`
 
-`sayMyName` accepts one parameter `name` and return a string 
+`sayMyName` accepts one parameter `name` and return a string
 
+```js
+Your name is (name)
 ```
-'Your name is (name)'
-```
 
-Define a function `ageCalculator` 
+Define a function `ageCalculator`
 
-`ageCalculator` accept two parameters: `birthYear` and `currentYear`. The function then returns 
-a string 
+`ageCalculator` accept two parameters: `birthYear` and `currentYear`. The function then returns
+a string
 
-```
+```js
 you are (age) years old
 ```
 
@@ -29,7 +29,7 @@ the functions `sayMyName` and `ageCalculator`, and returns a string with those v
 ## Output
 
 Example function call:
-```
+```js
 aboutMe("Pedro", 1985, 2015)
 ```
 
