@@ -35,7 +35,9 @@ Example output (not the correct answer):
 
 ## Bonus
 
-Create another variable named `sentence` that outputs a full sentence about Messi's goals.
+Create another variable named `sentence` that stores a full sentence about Messi's goals.
+
+Use `console.log(sentence)` to output the string to the console.
 
 Example output:
 ```
