@@ -1,0 +1,22 @@
+{
+  "name": "codecamp-examples",
+  "version": "0.0.0",
+  "description": "Welcome to the 9 Dots code camp. Here you will find all of the activities sorted by topic and references to help you if you get stuck. Enjoy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://danleavitt0@github.com/danleavitt0/codecamp-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danleavitt0/codecamp-examples/issues"
+  },
+  "homepage": "https://github.com/danleavitt0/codecamp-examples",
+  "dependencies": {
+    "sync-prompt": "^0.4.2"
+  }
+}
