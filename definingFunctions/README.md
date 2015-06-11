@@ -2,9 +2,9 @@
 
 ## Activities
 
-- [ ] [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/socialMediaPosts)
-- [ ] [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/sayMyName)
-- [ ] [MadLib Function](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/madLibFunction)
+- [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/socialMediaPosts)
+- [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/sayMyName)
+- [MadLib Function](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/madLibFunction)
 
 
 A **function** is a way of teaching the program a new command. To use **functions** you first need to define the function.

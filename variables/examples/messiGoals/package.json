@@ -1,0 +1,21 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "beefy": "^2.1.5",
+    "watchify": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "npm install",
+    "start": "beefy index.js --port $npm_package_config_port --live"
+  },
+  "config":{
+    "port":"8080"
+  },
+  "author": "",
+  "license": "ISC"
+}
