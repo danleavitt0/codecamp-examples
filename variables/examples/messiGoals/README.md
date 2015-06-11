@@ -20,7 +20,7 @@ Create three variables and store the appropriate values using the table above:
   - `championsLeagueGoals`
   - `copaDelReyGoals`
 
-Create a fourth variable named `totalGoals`. `totalGoals` should equal the sum of all
+Create a fourth variable named `totalGoals`. `totalGoals` should store the sum of all
 of Messi's goals for this year.
 
 ## Output
@@ -35,7 +35,9 @@ Example output (not the correct answer):
 
 ## Bonus
 
-Create another variable named `sentence` that outputs a full sentence about Messi's goals.
+Create another variable named `sentence` that stores a full sentence about Messi's goals.
+
+Use `console.log(sentence)` to output the string to the console.
 
 Example output:
 ```
