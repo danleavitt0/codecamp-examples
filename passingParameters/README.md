@@ -95,8 +95,8 @@ a return will not be executed
 
 The function calls can be treated like variable and added to each other if the function returns a value
 ```js
-	var sum = double(2) + double(7)
-	console.log(sum)
+var sum = double(2) + double(7)
+console.log(sum)
 ```
 Would output
 ```
