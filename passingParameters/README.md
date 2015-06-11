@@ -47,19 +47,22 @@ function sayHello (name) {
 	console.log(“Hello, ” + name)
 }
 ```
-Inside the function, the parameter is used like any other variable
+- Inside the function, the parameter is used like any other variable
 
-To tell the function what the value of name should be you pass it as an argument during the function call
+- To tell the function what the value of name should be you pass it as an argument during the function call
+
 ```js
 var userName = prompt('What is your name? ')
 sayHello("Daniel")
 sayHello(userName)
 ```
-The first time that sayHello is called, the parameter ‘name’ is set to Daniel.
+- The first time that sayHello is called, the parameter ‘name’ is set to Daniel.
 
-The second time the value of ‘name’ will be whatever the user inputted
+- The second time the value of ‘name’ will be whatever the user inputted
 
-It is also to pass two numbers to a function by separating the values with commas. The order that the variables are placed when the function is called is the order they will be assigned the parameters in the function definition.
+A function can accept any number of parameters.
+- Values should be separated by commas.
+
 ```js
 function total (num1, num2) {
 	var total = num1 + num2
