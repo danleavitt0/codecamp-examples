@@ -2,65 +2,95 @@
 
 ## Activities
 
--  [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/sayMyName)
--  [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/ageCalculator)
--  [Mad Lib](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/madLib)
+- [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/ageCalculator)
+- [Mad Lib](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/madLib)
+-	[Time Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/timeCalculator)
+
+## Content
+
+- [Prompting the user for values](#prompt)
+- [Parameters](#parameters)
+- [Returning values](#return)
 
 ## Description
 
-To make **functions** more **reusable** we can pass specific data to them that the function can then manipulate.
+To make **functions** more **reusable** we can pass specific data to them that the function can then manipulate and then send a value back.
 
 ## How to use it
 
-To make use of this we need to set up our function to accept the variable. To do this add a
-name for the data between the parentheses. That information is stored in that variable name only while the function is
-being executed.
+<a name="prompt" />
+### Prompt the user
 
+To get new information use the prompt function
 ```js
-function addFive ( num ) {
-	console.log(num)
+var prompt = require('sync-prompt').prompt
+var name1 = prompt('What is your name? ')
+console.log(name1)
+```
+
+The variable `name1` stores the value that the user enters
+
+An example with numbers
+```js
+var age = prompt('How old are you? ')
+console.log(age)
+```
+
+<a name="parameters" />
+### Introduce Parameters
+
+A parameter tells the function that there is a piece of information that will be provided when the function is called.
+
+The parameter goes inside the parentheses during the function definition
+```js
+function sayHello (name) {
+	console.log(“Hello, ” + name)
 }
 ```
+Inside the function, the parameter is used like any other variable
 
-To pass the data, just provide it while calling the function between the parentheses
+To tell the function what the value of name should be you pass it as an argument during the function call
 ```js
-addFive(2)
-addFive(5)
+var userName = prompt('What is your name? ')
+sayHello("Daniel")
+sayHello(userName)
 ```
+The first time that sayHello is called, the parameter ‘name’ is set to Daniel.
 
-The output would be:
-```
-2
-5
-```
-
-## Manipulating Parameters
-
-To add 5 to whatever number gets passed to the function add the line
-
-```js
-num = num + 5
-```
-```js
-function addFive ( num ) {
-	num = num + 5
-	console.log(num)
-}
-```
-## Multiple Parameters
+The second time the value of ‘name’ will be whatever the user inputted
 
 It is also to pass two numbers to a function by separating the values with commas. The order that the variables are placed when the function is called is the order they will be assigned the parameters in the function definition.
 ```js
-function addFive ( num1,  num2 ) {
-	var total = num1 + num2 + 5
+function total (num1, num2) {
+	var total = num1 + num2
 	console.log(total)
 }
 
-addFive(3, 6)
-addFive(9,29)
+var firstNum = prompt('What is the first number? ')
+var secondNum = prompt('What is the second number? ')
+
+total(firstNum, secondNum)
 ```
-The output would be:
+
+<a name="return" />
+### Introduce returning values
+
+By using `return`, students can send a value back to where it was called
+```js
+function double (num) {
+	var numDouble = num * 2
+	return numDouble
+}
 ```
-14
-43
+Define a variable and store the function call
+```js
+var result = double(2)
+console.log(result)
+```
+Using the `return` keyword ends stops the function and anything instructions after
+a return will not be executed
+
+The function calls can be treated like variable and added to each other if the function returns a value
+```js
+	var sum = double(2) + double(7)
 ```
