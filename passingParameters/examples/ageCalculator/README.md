@@ -1,36 +1,47 @@
-# Age Calculator with Parameters
+# Age Calculator in Days
 
-In this activity, create an age calculator function that uses parameters to determing the values
-of `birthYear` and `currentYear`
+Create an age calculator function that returns the age (in days) of two people.
+The program should prompt the user for the birth year of two people.
 
 ## Define
 
-Define a function called `ageCalculator` that accepts two parameters: `birthYear` and `currentYear`
-The function should determine the users age using those numbers.
+Create four variables:
+
+  - `name1`
+  - `birthYear1`
+  - `name2`
+  - `birthYear2`
+
+These variables should get their values by using the `prompt` function
+
+Create a function called `getAgeDays` that accepts one parameter and returns the age in days.
+
+Create a function called `makeSentece` that accepts two parameters (`name` and `age`) that
+returns a sentence that says the persons name and how old they are. Each person should get a sentence about how many days old they are.
+
 
 ## Call
 
-In the program, the `ageCalculator` function should be called at least three times with different values each time.
-
 Example function call:
 ```js
-ageCalculator(1987, 2015)
-ageCalculator(2000, 2015)
-ageCalculator(1950, 2015)
+var sentence1 = makeSentence(name1, getAgeDays(birthYear1))
+var sentence2 = makeSentence(name2, getAgeDays(birthYear2))
+console.log(sentence1)
+console.log(sentence2)
 ```
 
 ## Output
 
-The `ageCalculator` function should output the user's age as a sentence to the console.
 
 Example output:
 ```
-You are 28 years old
-You are 15 years old
-You are 65 years old
+Greg is around 2583 days old
+James is around 9643 days old
 ```
 
-## Documentation
-For help with passingParameters look at the [parameters documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/passingParameters/README.md)
+## Bonus
 
-For help with functions check out the [defining functions documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/definingFunctions/README.md)
+Call the `makeSentence` function one more time to create a sentence for the sum of the days of the two people.
+
+## Documentation
+For help with returning data look at the [documentation]()
