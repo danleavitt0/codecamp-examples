@@ -1,3 +1,5 @@
-{{name}}
+// Code goes here
 
-document.body.innerHTML = "Open your browser console!"
+console.log("Hello World")
+
+console.log(12 + "243")

@@ -12,5 +12,3 @@ function getNumber(name){
 getNumber("Elmo")
 getNumber("Big Bird")
 getNumber("Ernie")
-
-document.body.innerHTML = "Open your browser console!"

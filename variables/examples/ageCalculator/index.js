@@ -2,7 +2,6 @@ var currentYear = 2015
 var birthYear = 1987
 
 var age = currentYear - birthYear
+var ageSentence = "You are " + age + " years old"
 
-console.log(age)
-
-document.body.innerHTML = "Open your browser console!"
+console.log(ageSentence)
