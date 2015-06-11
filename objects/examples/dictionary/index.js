@@ -15,6 +15,3 @@ console.log(dictionary[name])
 // add an entry at the key "large" and then print out the value
 dictionary.large = 'of considerable or relatively great size, extent, or capacity.'
 console.log(dictionary.large)
-
-
-document.body.innerHTML = "Open your browser console!"
