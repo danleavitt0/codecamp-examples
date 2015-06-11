@@ -20,7 +20,7 @@ Create three variables and store the appropriate values using the table above:
   - `championsLeagueGoals`
   - `copaDelReyGoals`
 
-Create a fourth variable named `totalGoals`. `totalGoals` should equal the sum of all
+Create a fourth variable named `totalGoals`. `totalGoals` should store the sum of all
 of Messi's goals for this year.
 
 ## Output
