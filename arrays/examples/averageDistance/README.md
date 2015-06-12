@@ -48,3 +48,6 @@ number: 5
 number: 6
 3.5
 ```
+
+## Documentation
+For help, check the [arrays documentation](https://github.com/danleavitt0/codecamp-examples/tree/master/arrays)
