@@ -3,7 +3,7 @@
 ## Activities
 
 -  [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/variables/examples/ageCalculator)
-- [Messi Goals]()
+- [Messi Goals](https://github.com/danleavitt0/codecamp-examples/tree/master/variables/examples/messiGoals)
 
 ## To define a variable
 
