@@ -42,4 +42,4 @@ NO, 55 is NOT a factor of 100
 ```
 ## Documentation
 
-Help with `if...else` statements can be found [here]()
+Help with `if...else` statements can be found [here](https://github.com/danleavitt0/codecamp-examples/blob/master/ifElse/README.md)
