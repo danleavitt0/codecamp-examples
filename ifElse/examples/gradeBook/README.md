@@ -62,3 +62,7 @@ Example output:
 The average grade for Daniel is an F
 The average grade for John is a B
 ```
+
+## Documentation
+
+Help with `if...else` statements can be found [here]()
