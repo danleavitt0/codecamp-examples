@@ -13,9 +13,11 @@ function makeSentece(name, time) {
 var name1 = prompt('What is the first persons name? ')
 var distance1 = prompt('What is ' + name1 + "'s distance? " )
 var speed1 = prompt('What is ' + name1 + "'s speed? " )
+
 var name2 = prompt('What is the second persons name? ')
 var distance2 = prompt('What is ' + name2 + "'s distance? " )
 var speed2 = prompt('What is ' + name2 + "'s speed? " )
+
 var name3 = prompt('What is the third persons name? ')
 var distance3 = prompt('What is ' + name3 + "'s distance? " )
 var speed3 = prompt('What is ' + name3 + "'s speed? " )
