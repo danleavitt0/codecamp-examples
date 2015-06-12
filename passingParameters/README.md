@@ -1,4 +1,4 @@
-# Passing Parameters to Functions
+# Make functions dynamic
 
 ## Activities
 
