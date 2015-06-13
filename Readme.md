@@ -5,7 +5,7 @@ and references to help you if you get stuck. Enjoy!
 
 ## Topics
 
-- [Sequence and function calls]()
+- [Sequence and function calls](https://github.com/danleavitt0/codecamp-examples/tree/master/sequence)
 - [Variables](https://github.com/danleavitt0/codecamp-examples/tree/master/variables)
 - [Debugging](https://github.com/danleavitt0/codecamp-examples/tree/master/debugging)
 - [Defining functions](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions)
