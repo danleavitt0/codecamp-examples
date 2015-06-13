@@ -4,6 +4,7 @@
 
 - [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/socialMediaPosts)
 - [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/sayMyName)
+- [getCoding Creating Functions](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/spacemanFunctions)
 - [MadLib Function](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/madLibFunction)
 
 
