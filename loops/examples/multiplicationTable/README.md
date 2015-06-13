@@ -29,3 +29,5 @@ Example output:
 12 x 11 = 132
 12 x 12 = 144
 ```
+## Documentation
+For help, look at the [loops documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/loops/README.md)

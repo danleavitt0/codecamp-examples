@@ -53,3 +53,6 @@ a B
 What is the grade? 60
 an A
 ```
+
+## Documentation
+For help, look at the [loops documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/loops/README.md)

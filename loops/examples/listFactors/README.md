@@ -1,5 +1,7 @@
 # Find Factors
 
+Write a program that find all of the factors of a given number.
+
 ## Information
 
 Factors are numbers you can multiply together to get another number.
@@ -41,3 +43,5 @@ What number ?100
 50 is a factor
 100 is a factor
 ```
+## Documentation
+For help, look at the [loops documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/loops/README.md)
