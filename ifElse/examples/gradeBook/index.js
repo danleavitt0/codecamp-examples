@@ -31,8 +31,6 @@ function getGrade(gradeNum) {
 var avg1 = average3(grade1,grade2,grade3)
 var avg2 = average3(grade4, grade5, grade6)
 
-console.log(avg1, avg2)
-
 var sentence1 = "The average grade for " + name1 + " is " + getGrade(avg1)
 var sentence2 = "The average grade for " + name2 + " is " + getGrade(avg2)
 

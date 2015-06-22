@@ -2,14 +2,14 @@
 
 ## Activities
 
-- [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/objects/examples/socialMediaPosts)
-- [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/sayMyName)
+- [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/sayMyName)
+- [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/ageCalculator)
 - [getCoding Creating Functions](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/spacemanFunctions)
 - [MadLib Function](https://github.com/danleavitt0/codecamp-examples/tree/master/definingFunctions/examples/madLibFunction)
 
 
 A **function** is a way of teaching the program a new command. To use **functions** you first need to define the function.
-Once you are read to use the function you call it.
+Once you are ready to use the function you call it.
 
 ## How to define a function
 
@@ -23,7 +23,7 @@ function nameOfFunction () {
 	// Code goes here
 }
 ```
-To call the **function** simply type the name of the **function** followed by parenteses `()`
+To call the **function** simply type the name of the **function** followed by parentheses `()`
 Call that function:
 ```js
 nameOfFunction()
