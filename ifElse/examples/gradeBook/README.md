@@ -29,11 +29,11 @@ Create 8 variables and prompt user for values for each variable:
 
 Define two functions:
 
-- `function avarage3`
+- `function average3`
 
 - `function getGrade`
 
-#### avarage3
+#### average3
 
 `average3` should accept three parameters `num1,num2,num3` and return the average
 of those three numbers

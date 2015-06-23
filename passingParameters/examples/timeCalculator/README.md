@@ -45,24 +45,24 @@ Store the information in variables:
 
   - `name1`
   - `speed1`
-  - `time1`
+  - `distance1`
   - `name2`
   - `speed2`
-  - `time2`
+  - `distance2`
   - `name3`
   - `speed3`
-  - `time3`
+  - `distance3`
 
 Define a function called `getTimeMinutes` that returns `minutes` by dividing the parameters `distance` and `speed`.
 
-Define a function called `makeSentece` that returns a string with the information about how long a person's trip took.
+Define a function called `makeSentence` that returns a string with the information about how long a person's trip took.
 
 ## Call
 Example function calls:
 ```js
-var sentence1 = makeSentece(name1, getTimeMinutes(distance1, speed1))
-var sentence2 = makeSentece(name2, getTimeMinutes(distance2, speed2))
-var sentence3 = makeSentece(name3, getTimeMinutes(distance3, speed3))
+var sentence1 = makeSentence(name1, getTimeMinutes(distance1, speed1))
+var sentence2 = makeSentence(name2, getTimeMinutes(distance2, speed2))
+var sentence3 = makeSentence(name3, getTimeMinutes(distance3, speed3))
 ```
 ## Output
 Use `console.log` to output all three sentences
@@ -75,4 +75,4 @@ It took Cameron 20 minutes.
 ```
 
 ## Documentation
-For help with returning data look at the [documentation]()
+For help with passingParameters look at the [parameters documentation](https://github.com/danleavitt0/codecamp-examples/blob/master/passingParameters/README.md)
