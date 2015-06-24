@@ -2,9 +2,9 @@
 
 ## Activities
 
-- [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/ageCalculator)
 - [Mad Lib](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/madLib)
--	[Time Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/timeCalculator)
+- [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/ageCalculator)
+- [Time Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/timeCalculator)
 
 ## Content
 
