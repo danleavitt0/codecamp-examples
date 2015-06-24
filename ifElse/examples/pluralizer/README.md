@@ -33,7 +33,7 @@ Create two functions called `pluralizer` and `areOrIs`
 
 Example function call:
 ```js
-var sentence = "The " + amount + " " pluralizer(noun, amount) + " " + areOrIs(amount) + " dancing at the zoo."
+var sentence = "The " + amount + " " + pluralizer(noun, amount) + " " + areOrIs(amount) + " dancing at the zoo."
 ```
 
 ## Output

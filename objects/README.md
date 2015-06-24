@@ -57,7 +57,12 @@ You can set the value of a key by:
 
 ```js
 dictionary.large = 'of considerable or relatively great size, extent, or capacity.'
+// or
+dictionary['large'] = 'of considerable or relatively great size, extent, or capacity.'
 ```
+
+## Values can be a function
+
 
 
 ## Objects can be nested (an object inside of a object)
