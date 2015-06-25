@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/danleavitt0/codecamp-examples",
   "dependencies": {
+    "babel": "^5.6.4",
     "sync-prompt": "^0.4.2"
   }
 }
