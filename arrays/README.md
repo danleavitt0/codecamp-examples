@@ -3,7 +3,7 @@
 ## Activities
 
 - [Movie List](https://github.com/danleavitt0/codecamp-examples/tree/master/arrays/examples/movieList)
-- [Average Distance](https://github.com/danleavitt0/codecamp-examples/tree/master/arrays/examples/averageDistance)
+- [Average](https://github.com/danleavitt0/codecamp-examples/tree/master/arrays/examples/averageDistance)
 
 ## What is it?
 - An **array** is a data type that can hold many values
