@@ -8,8 +8,8 @@ Create an array that stores your favorite movies and then use a loop to output a
 
 #### Functions
 - Create a function called `listMovies`
- - Accepts one parameter (array)
- - Uses `console.log` to list all of the movies from the array to the console
+- Accepts one parameter (array)
+- Uses `console.log` to list all of the movies from the array to the console
 
 ## Call
 Example function call:

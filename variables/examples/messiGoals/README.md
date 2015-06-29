@@ -1,6 +1,6 @@
 # Messi's Goal Total
 
-Use variables to find the sum of the goals Messi scored in 3 games
+Use variables to find the sum of the goals Messi scored in the 2014-2015 season
 
 ## Information
 

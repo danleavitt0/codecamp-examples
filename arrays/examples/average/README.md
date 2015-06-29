@@ -26,8 +26,8 @@ For an example list of `1, 3, 5, 7`
 #### Functions
 
 - Define a function named `getAverage`
-  - Accepts one parameter (array)
-  - Returns the average of the numbers from the list
+- Accepts one parameter (array)
+- Returns the average of the numbers from the list
 
 ## Call
 
