@@ -2,8 +2,7 @@
 
 ## Create the object
 
-Create an object called userInfo that has information about the user. The user object should have
-at least 3 fields:
+Create an object called userInfo that has information about multiple users. Each user should have a key that is their name with a value that is an object with 3 fields:
 
 	- name
 	- username
@@ -11,12 +10,12 @@ at least 3 fields:
 
 ## Display the information
 
-Create a function called getUser that accepts an object as a parameter. The function should log
+Create a method (function connected to an object) called `getUser` that accepts an object as a parameter. The function should log
 the information to the console.
 
 Function call:
 ```js
-getUser(userInfo)
+users.getUser(userInfo)
 ```
 Example output:
 ```
