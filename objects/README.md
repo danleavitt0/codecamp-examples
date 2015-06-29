@@ -88,6 +88,38 @@ var superheroes = {
 }
 ```
 
+## Adding a method to an object
+
+A method is a function that is in an object. The method `getHero` adds a function that returns a superhero object by finding the name. The word `this` means the current object which in this case is `superheroes`
+
+```js
+var superheroes = {
+	spiderman:{
+		heroName: 'Spiderman'
+		realName: 'Peter Parker',
+		powers: 'Webs and reaction time'
+	},
+	superman: {
+		heroName:'Superman'
+		realMame: 'Clark Kent',
+		powers: 'Pretty much everything'
+	},
+	batman: {
+		heroName: 'Batman',
+		realName: 'Bruce Wayne',
+		powers: 'Lots of money and lots of training'
+	},
+  getHero: function (name) {
+    return this[name]
+  }
+}
+
+// Call the function
+superheroes.get('spiderman')
+```
+The `getHero` method returns the superhero object with the corresponding key. In this case, it returns the spiderman object.
+
+
 ## Creating an array of objects
 
 It is possible to create a list of objects by placing them in an array. Remember that the values in an array are separate by

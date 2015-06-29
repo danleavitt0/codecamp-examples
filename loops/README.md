@@ -2,8 +2,9 @@
 
 ## Activities
 
-- [List Factors](https://github.com/danleavitt0/codecamp-examples/tree/master/loops/examples/listFactors)
 - [Multiplication Table](https://github.com/danleavitt0/codecamp-examples/tree/master/loops/examples/multiplicationTable)
+- [List Factors](https://github.com/danleavitt0/codecamp-examples/tree/master/loops/examples/listFactors)
+- [Summation](https://github.com/danleavitt0/codecamp-examples/tree/master/loops/examples/summation)
 - [Grade Book](https://github.com/danleavitt0/codecamp-examples/tree/master/loops/examples/gradeBook)
 
 ## What does it do?

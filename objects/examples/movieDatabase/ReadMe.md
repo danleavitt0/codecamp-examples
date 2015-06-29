@@ -11,11 +11,11 @@ the key is the name of the movie and the value is an object with those three fie
 
 ## Display the information
 
-Create a function called getMovieInfo that takes the name of a movie as a parameter
+Create a method on the object called getMovieInfo that takes the name of a movie as a parameter
 and displays the information in a sentence.
 
 ```js
-getMovieInfo("Spiderman")
+movies.getMovieInfo('spiderman')
 ```
 
 ```

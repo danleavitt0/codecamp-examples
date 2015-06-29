@@ -1,6 +1,6 @@
 # Grade Book with Loop
 
-Use a loop to determine how many grades the user wants to enter.
+Use a loop to determine how many grades the user wants to enter. Then, find the letter grade for the corresponding score.
 
 ## Information
 

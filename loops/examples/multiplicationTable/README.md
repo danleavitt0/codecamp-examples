@@ -8,7 +8,7 @@ Create a program that outputs the multiples 1-12 of a user inputted number
 - Make a `for` loop that repeats 12 times
 - Each time the loop repeats, a new multiple should be calculated and outputted.
 
-      Multiple the base number by the index (i) to find the multiple
+      Multiply the base number by the index (i) to find the multiple
 
 ## Output
 
