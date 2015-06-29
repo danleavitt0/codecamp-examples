@@ -10,7 +10,7 @@ Create a social media posts array that is filled with post objects that have the
 
 ## Create the array
 
-Define an array named socialMediaPosts that contains at least three objects. Each object should have the four fields mentioned above.
+Define an array named `socialMediaPosts` that contains at least three objects. Each object should have the four fields mentioned above.
 
 ## Display the information
 
