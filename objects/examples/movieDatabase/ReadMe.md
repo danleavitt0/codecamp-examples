@@ -10,11 +10,11 @@ The movie database is an object of movie objects. This means that for each movie
 
 ## Display the information
 
-Create a function called getMovieInfo that takes the name of a movie as a parameter
+Create a method on the object called getMovieInfo that takes the name of a movie as a parameter
 and displays the information in a sentence.
 
 ```js
-getMovieInfo("Spiderman")
+movies.getMovieInfo('spiderman')
 ```
 
 ```
