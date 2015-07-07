@@ -1,17 +1,37 @@
 # Say My Name with Parameters
 
-Create the say my name function but make it more reusable by passing a parameter `name` to
-the function and using that name in the output.
+Create the `sayMyName` function but make it more reusable by passing a parameter `name` to the function and using that name in the output.
+
+Call the function three times and provide a different value each time.
 
 ## Output
 
 Example function call:
 ```js
 sayMyName("Heather")
+sayMyName("Beth")
+sayMyName("Aaron")
 ```
 Example output:
 ```
 Your name is Heather
+Your name is Beth
+Your name is Aaron
+```
+
+## Bonus
+
+Create three variables and prompt the user for values:
+
+- `name1`
+- `name2`
+- `name3`
+
+Use the variables as parameters when calling the `sayMyName` function.
+
+Example:
+```js
+sayMyName(name1)
 ```
 
 ## Documentation
