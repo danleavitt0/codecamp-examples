@@ -6,8 +6,7 @@ It is your job to make a movie database that contains the fields:
     - Year (number)
     - Stars (array)
 
-The movie database is an object of movie objects. This means that for each movie,  
-the key is the name of the movie and the value is an object with those three fields.
+The movie database is an object of movie objects. This means that for each movie, the key is the name of the movie and the value is an object with those three fields.
 
 ## Display the information
 

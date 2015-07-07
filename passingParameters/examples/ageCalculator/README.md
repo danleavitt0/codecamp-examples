@@ -24,10 +24,13 @@ returns a sentence that says the persons name and how old they are. Each person 
 
 Example function call:
 ```js
-var sentence1 = makeSentence(name1, getAgeDays(birthYear1))
-var sentence2 = makeSentence(name2, getAgeDays(birthYear2))
+var days1 = getAgeDays(birthYear1)
+var days2 = getAgeDays(birthYear2)
+var sentence1 = makeSentence(name1, days1)
+var sentence2 = makeSentence(name2, days2)
 console.log(sentence1)
 console.log(sentence2)
+
 ```
 
 ## Output

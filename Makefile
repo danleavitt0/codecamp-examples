@@ -11,4 +11,7 @@ create:
 	cp .templates/.gitignore $$lesson/examples/$$file_name; \
 	cp .templates/README.md $$lesson/examples/$$file_name;
 
-.PHONY: create
+count:
+	@echo  "You have written" `cat ./**/*.js | wc -l` "lines of code!"
+
+.PHONY: create count

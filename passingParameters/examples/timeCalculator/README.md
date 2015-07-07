@@ -60,9 +60,15 @@ Define a function called `makeSentence` that returns a string with the informati
 ## Call
 Example function calls:
 ```js
-var sentence1 = makeSentence(name1, getTimeMinutes(distance1, speed1))
-var sentence2 = makeSentence(name2, getTimeMinutes(distance2, speed2))
-var sentence3 = makeSentence(name3, getTimeMinutes(distance3, speed3))
+var minutes1 = getTimeMinutes(distance1, speed1)
+var minutes2 = getTimeMinutes(distance2, speed2)
+var minutes3 = getTimeMinutes(distance3, speed3)
+var sentence1 = makeSentece(name1, minutes1)
+var sentence2 = makeSentece(name2, minutes2)
+var sentence3 = makeSentece(name3, minutes3)
+console.log(sentence1)
+console.log(sentence2)
+console.log(sentence3)
 ```
 ## Output
 Use `console.log` to output all three sentences
