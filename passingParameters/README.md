@@ -5,8 +5,6 @@
 - [Say My Name](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/sayMyName)
 - [Triple](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/triple)
 - [Mad Lib](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/madLib)
-- [Age Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/ageCalculator)
-- [Time Calculator](https://github.com/danleavitt0/codecamp-examples/tree/master/passingParameters/examples/timeCalculator)
 
 ## Content
 
